@@ -6,9 +6,9 @@ In case you want to run this code, add a "credentials.json" file in the bot fold
 
 **Exemple:**
 {
-    "client_id": "",
-    "client_secret": "",
-    "user_agent": "",
-    "username": "",
-    "password": ""
+    "client_id": " ",
+    "client_secret": " ",
+    "user_agent": " ",
+    "username": " ",
+    "password": " "
 }
